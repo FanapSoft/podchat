@@ -6,4 +6,4 @@ Fanap's POD Chat service
 
 
 ## Documentation
-[Docs from POD](http://docs.pod.land/v1.0.0.0/Chat/Introduction/783/Oveview)
+[Docs from POD](https://docs.pod.land/v1.0.0.0/84/Chat)
